@@ -1,0 +1,11 @@
+# ===== 密钥与本地配置（切勿提交） =====
+.env
+.env.*
+
+# 虚拟环境 / 缓存 / 日志 / 运行时
+.venv/
+__pycache__/
+*.pyc
+*.log
+uploads/
+.gradio/
